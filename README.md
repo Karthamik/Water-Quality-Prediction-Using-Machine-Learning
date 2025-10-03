@@ -1,1 +1,4 @@
 # Water-Quality-Prediction-Using-Machine-Learning
+Water quality is a critical factor for human health, agriculture, and environmental sustainability. Predicting water quality accurately helps in timely identification of pollution, contamination, and unsafe water conditions. Water Quality Prediction Using Machine Learning involves using advanced computational techniques to analyze historical and real-time water data to forecast water quality parameters.
+
+Machine learning models, such as Linear Regression, Decision Trees, Random Forest, XGBoost, and Neural Networks, can be trained on datasets containing chemical, physical, and biological properties of water, such as pH, turbidity, dissolved oxygen, hardness, and contaminant levels. These models can then predict the overall water quality or classify it into categories like safe, acceptable, or unsafe.
